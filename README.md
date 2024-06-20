@@ -2,9 +2,9 @@
 
 # Project Objective
 
-## Create a Customer Performance Report
+## Create a [Customer Performance Report](https://github.com/Prathish-codes/Excel-Sales-Anaytics/blob/main/Customer%20Performance%20Report.pdf)
 
-## Market Performance vs Sales Targets Report
+## [Market Performance vs Sales Targets Report](https://github.com/Prathish-codes/Excel-Sales-Anaytics/blob/main/Market_Performance%20vs%20Target%20Report.pdf)
 Conduct a comprehensive comparison between market performance and sales targets.
 
 ### Purpose of Sales Analytics
